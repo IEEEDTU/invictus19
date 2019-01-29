@@ -17,11 +17,11 @@ li>a{
 
 }
 .nav-item>.nav-link:hover{
-    background-color: aqua;
+    background-color: #86c232;
     color: black;
 }
 .active{
-    background-color: aqua;
+    background-color: #86c232;
     border-radius: 10px;
 }
 
@@ -30,8 +30,8 @@ li>a{
     font-size: 22px;
     font-weight:bold;
     text-align: center;
-    color: aqua;
-    border:solid aqua 3px;
+    color: #86c232;
+    border:solid #86c232 3px;
     border-radius:10%;
     padding-top:20px;
     margin: 10px;
@@ -44,7 +44,7 @@ li>a{
 }
 p{
     text-align: center;
-    color: aqua;
+    color: #86c232;
     font-size: 50px;
     font-family: Times New Roman, Times, serif;
 }
@@ -65,7 +65,7 @@ p{
     padding-top: 20px;
     text-align: center;
     margin-top: 20px;
-    background-color: aqua;
+    background-color: #86c232;
     color: black;
     font-size: 20px;
     padding-bottom: 20px;
