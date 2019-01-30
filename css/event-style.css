@@ -418,7 +418,7 @@ button:focus {
   margin: auto;
   width: 0%;
   content: '';
-  background: #66FCF1;
+  background: #86c232;
   height: 2px;
   color:transparent;
 }
@@ -431,7 +431,7 @@ button:focus {
   margin: auto;
   width: 0%;
   content: '';
-  background: #66FCF1;
+  background: #86c232;
   height: 2px;
   color:transparent;
 }
@@ -497,7 +497,7 @@ button:focus {
 
 
 .mu-title-area a.btn:hover {
-	background-color: #66fcf1; /* Green */
+	background-color: #86c232; /* Green */
     color: white;
 }
 
@@ -1427,7 +1427,7 @@ button:focus {
 }
 
 .mu-social-media a:hover {
-	color:#66FCF1;
+	color:#86c232;
 	border:none;
 }
 
