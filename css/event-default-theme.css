@@ -92,14 +92,13 @@
 
 .navbar-brand{
 	color:#C5C6C7 !important;	
-	padding: 20px;
 }
 
 .navbar-brand:hover{
 	color:white !important;	
 }
-
+/* 
 .navbar-toggle{
 	background-color: #0B0C10 !important;
-}
+} */
 
