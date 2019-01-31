@@ -95,6 +95,11 @@ div{display:block;}
     .foot{font-size:16px;}
     .contact-head{font-size:34px;}
 }
+.lola{
+    width: 100px;
+    height: 380px;
+    im
+}
 #blabla{margin-top:10px;font-weight:200;}
 #uff{position:absolute;left:3.5%;top:15%;height:auto;width:auto;margin:auto;max-height:70%;max-width:100%;transition:transform .2s;}
 #uff:hover{transform:scale(1.25);}
