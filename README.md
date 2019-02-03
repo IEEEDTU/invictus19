@@ -1,2 +1,2 @@
-# Troika19
-Official website of Troika'19 - Annual Technical Festival of IEEE DTU Student Branch
+# INVICTUS'19
+Official website of Invictus'19 - Annual Technical Festival of DTU
